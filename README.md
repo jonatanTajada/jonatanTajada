@@ -1,11 +1,19 @@
-# 👋 Hola, soy Jonatan Tajada Rico
+<p align="center">
+  <img src="./imagenPerfilAvatarGitHub.png" alt="Banner" />
+</p>
 
-![Banner](./imagenPerfilAvatarGitHub.png)
+<h1 align="center">👋 Hola, soy Jonatan Tajada Rico</h1>
 
-💻 **Desarrollador Full Stack Junior** con formación en Desarrollo de Aplicaciones Multiplataforma (DAM).  
-Manejo **Java** y **Spring Boot** para backend, **Angular** y **React (JSX)** para frontend, y he trabajado con **Odoo (Python)**, bases de datos **PostgreSQL** y **MySQL**, y automatización con **Make**.
+<p align="center">
+💻 <strong>Desarrollador Full Stack Junior</strong> con formación en Desarrollo de Aplicaciones Multiplataforma (DAM).  
+Manejo <strong>Java</strong> y <strong>Spring Boot</strong> para backend, <strong>Angular</strong> y <strong>React (JSX)</strong> para frontend,  
+y he trabajado con <strong>Odoo (Python)</strong>, bases de datos <strong>PostgreSQL</strong> y <strong>MySQL</strong>, y automatización con <strong>Make</strong>.
+</p>
 
-Me apasiona **crear aplicaciones web**, **automatizar procesos** y **trabajar con datos**, siempre buscando soluciones útiles para las personas y las empresas.
+<p align="center">
+Me apasiona <strong>crear aplicaciones web</strong>, <strong>automatizar procesos</strong> y <strong>trabajar con datos</strong>,  
+siempre buscando soluciones útiles para las personas y las empresas.
+</p>
 
 ---
 
@@ -20,17 +28,29 @@ Me apasiona **crear aplicaciones web**, **automatizar procesos** y **trabajar co
 ---
 
 ## 📈 Actualmente
+
 - Ampliando conocimientos en **Spring Boot**, **Angular**, **React** y automatización.
 - Próximo objetivo: **especializarme en Inteligencia Artificial y Big Data**.
 
 ---
 
 ## 🤝 Busco mi primera oportunidad
-Quiero incorporarme a un equipo donde **aprender**, **aportar** y **crecer**.  
-Si te encaja mi perfil, ¡hablamos!
 
-**📫 Contacto:**  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white)](https://jonatantajadadev.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatantr/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tajadarico@gmail.com)
+Estoy listo para incorporarme a un equipo donde pueda **aprender, aportar y crecer profesionalmente**.  
+Si mi perfil encaja contigo o tu empresa, ¡me encantará hablar!
 
+---
+
+## 📫 Contacto
+
+<p align="center">
+  <a href="https://jonatantajadadev.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/jonatantr/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:tajadarico@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
