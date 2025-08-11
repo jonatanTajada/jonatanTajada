@@ -25,5 +25,11 @@ Me apasiona **crear aplicaciones web**, **automatizar procesos** y **trabajar co
 
 ---
 
-## 🤝 Buscando oportunidades
-Busco mi **primera oportunidad profesional** como desarrollador, para aplicar y seguir ampliando mis habilidades.
+## 🤝 Busco mi primera oportunidad
+Quiero incorporarme a un equipo donde **aprender**, **aportar** y **crecer**.  
+Si te encaja mi perfil, ¡hablamos!
+
+**📫 Contacto:**  
+- Portfolio: https://jonatantajadadev.netlify.app/
+- LinkedIn: https://www.linkedin.com/in/jonatantr/  
+- Email: tajadarico@gmail.com 
