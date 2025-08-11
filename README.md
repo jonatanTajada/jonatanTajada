@@ -1,6 +1,6 @@
 # 👋 Hola, soy Jonatan Tajada Rico
 
-![Banner](imagenPerfilAvatarGitHub.png)
+![Banner](./imagenPerfilAvatarGitHub.png)
 
 💻 **Desarrollador Full Stack Junior** con formación en Desarrollo de Aplicaciones Multiplataforma (DAM).  
 Manejo **Java** y **Spring Boot** para backend, **Angular** y **React (JSX)** para frontend, y he trabajado con **Odoo (Python)**, bases de datos **PostgreSQL** y **MySQL**, y automatización con **Make**.
