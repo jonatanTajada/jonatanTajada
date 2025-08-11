@@ -30,6 +30,7 @@ Quiero incorporarme a un equipo donde **aprender**, **aportar** y **crecer**.
 Si te encaja mi perfil, ¡hablamos!
 
 **📫 Contacto:**  
-- Portfolio: https://jonatantajadadev.netlify.app/
-- LinkedIn: https://www.linkedin.com/in/jonatantr/  
-- Email: tajadarico@gmail.com 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white)](https://jonatantajadadev.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatantr/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tajadarico@gmail.com)
+
